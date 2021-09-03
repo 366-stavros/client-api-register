@@ -1,0 +1,9 @@
+version: '2.2'
+services:
+  client-api-register:
+    environment:
+      - ENDPOINT=$ENDPOINT
+      - API_KEY=$API_KEY
+      - CSV_FILE=$CSV_FILE
+    build: .
+    command: ts-node src/index.ts

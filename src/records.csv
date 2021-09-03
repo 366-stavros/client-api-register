@@ -1,0 +1,16 @@
+#FORMAT
+name,email,tel_country_code,telephone,password,country_iso,language_iso,referral_id,date_of_birth,ip_address
+Stavros CSV Test, astavros@chryselis.com, CY, 1234567899, , CY, JP, ,2000-05-10,192.168.10.254
+Stavros CSV Test, astavros2@chryselis.com, CY, 1234567899, , CY, JP, ,2000-05-10,192.168.10.254
+Stavros CSV Test, astavros3@chryselis.com, CY, 1234567899, , CY, JP, ,2000-05-10,192.168.10.254
+Stavros CSV Test, astavros4@chryselis.com, CY, 1234567899, , CY, JP, ,2000-05-10,192.168.10.254
+Stavros CSV Test, astavros5@chryselis.com, CY, 1234567899, , CY, JP, ,2000-05-10,192.168.10.254
+Stavros CSV Test, astavros6@chryselis.com, CY, 1234567899, , CY, JP, ,2000-05-10,192.168.10.254
+Stavros CSV Test, astavros7@chryselis.com, CY, 1234567899, , CY, JP, ,2000-05-10,192.168.10.254
+Stavros CSV Test, astavros7@chryselis.com, CY, 1234567899, , CY, JP, ,2000-05-10,192.168.10.254
+Stavros CSV Test, astavros9@chryselis.com, CY, 1234567899, , CY, JP, ,2000-05-10,192.168.10.254
+Stavros CSV Test, astavros0@chryselis.com, CY, 1234567899, , CY, JP, ,2000-05-10,192.168.10.254
+Stavros CSV Test, astavros-@chryselis.com, CY, 1234567899, , CY, JP, ,2000-05-10,192.168.10.254
+Stavros CSV Test, astavros=p@chryselis.com, CY, 1234567899, , CY, JP, ,2000-05-10,192.168.10.254
+Stavros CSV Test, astavrosp@chryselis.com, CY, 1234567899, , CY, JP, ,2000-05-10,192.168.10.254
+Stavros CSV Test, astavrosi@chryselis.com, CY, 1234567899, , CY, JP, ,2000-05-10,192.168.10.254
