@@ -14,7 +14,7 @@ const run = async () => {
         withReference(tableData.map(record => Object.fromEntries(zip(fieldNames, record))), clients =>
           clients.forEach(async client => {
             const res = await registerClient(({ ...client, password: faker.internet.password(), portal: '1' }))
-            console.log(client['email'], JSON.stringify(res))
+            console.log(client['email'], JSON.stringify(res === 'Success' ? res : res.error))
           })))))
 }
 
